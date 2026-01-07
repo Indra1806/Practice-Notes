@@ -39,3 +39,6 @@ and as usally added & commited the file
 using the command git add .gitignore, git commit -m "Add .gitignore", git push
 
 
+## Git is a distributed version control system. GitHub acts as the remote source of truth.
+## CI/CD pipelines are triggered by Git events like push or pull requests.
+
